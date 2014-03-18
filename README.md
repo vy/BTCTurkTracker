@@ -7,7 +7,7 @@ Usage
 
 You can build a JAR out of Scala sources using `sbt`:
 
-    $ git clone http://github.com/vy/BTCTurkTracker
+    $ git clone http://github.com/vy/BTCTurkTracker.git
     $ cd BTCTurkTracker
     $ sbt assembly
 
